@@ -5,7 +5,7 @@
 - [CSS浮动（float）和定位（position）](https://www.jianshu.com/p/b657ba81ad0c)
 - [CSS样式优先级](https://www.runoob.com/w3cnote/css-style-priority.html)
 
-### [常见手写代码](https://github.com/dingruibobo/blog/tree/master/writeCode)
+## [常见手写代码](https://github.com/dingruibobo/blog/tree/master/writeCode)
 - [bind](https://github.com/dingruibobo/blog/blob/master/writeCode/bind.js)
 - [deepClone](https://github.com/dingruibobo/blog/blob/master/writeCode/deep-clone.js)
 - [new一个对象](https://github.com/dingruibobo/blog/blob/master/writeCode/newobject.js)
