@@ -11,6 +11,7 @@
 - [new一个对象](https://github.com/dingruibobo/blog/blob/master/writeCode/newobject.js)
 - [instanceof](https://github.com/dingruibobo/blog/blob/master/writeCode/instanceof.js)
 - [防抖，节流](https://github.com/dingruibobo/blog/blob/master/writeCode/fangdouAndJieliu.js)
+- [柯里化](https://github.com/dingruibobo/blog/blob/master/writeCode/currying.js)
 - [eventLoop](https://github.com/dingruibobo/blog/blob/master/writeCode/eventLoop.js)
 
 # js
