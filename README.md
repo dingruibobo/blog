@@ -39,3 +39,6 @@
 - [前端SEO优化](https://www.jianshu.com/p/2768e9215497)
 - [单页面应用和多页面应用](https://www.jianshu.com/p/e1290bb89fc9)
 - [xhr,ajax,fetch,axios](https://www.jianshu.com/p/a0fce4517b42)
+
+# 性能优化
+- [不同业务场景下的图片方案选型](https://www.jianshu.com/p/d219305150ad)
