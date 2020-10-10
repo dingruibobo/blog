@@ -33,7 +33,6 @@
 
 # taro
 - [taro 3.0.7 开发流程和遇到的一些坑](https://www.jianshu.com/p/c2b5cea72a07)
-- [优化资源加载：同步加载，异步加载，延迟加载（懒加载），预加载](https://www.jianshu.com/p/7105c1983384)
 
 # 其他
 - [从输入网址到页面呈现都发生了什么？](https://www.jianshu.com/p/6e830ec3be3c)
@@ -43,3 +42,4 @@
 
 # 性能优化
 - [不同业务场景下的图片方案选型](https://www.jianshu.com/p/d219305150ad)
+- [优化资源加载：同步加载，异步加载，延迟加载（懒加载），预加载](https://www.jianshu.com/p/7105c1983384)
