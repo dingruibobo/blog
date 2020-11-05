@@ -28,6 +28,8 @@
 - [Promise和async/await（二）](https://www.jianshu.com/p/236b81a39e5e)
 - [EventLoop](https://www.jianshu.com/p/ec1ca326b558)
 - [JavaScript之事件委托](https://www.jianshu.com/p/1cfda28abc79)
+- [js中call()和apply()](https://www.jianshu.com/p/aa2eeecd8b4f)
+- [js中bind()](https://www.jianshu.com/p/25a855c01896)
 
 # vue
 - [Vue生命周期](https://www.jianshu.com/p/7819808b1bd6)
