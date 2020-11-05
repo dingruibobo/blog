@@ -23,7 +23,8 @@ function deepCopy(obj, hash = new WeakMap()) {
 
 function deepCopy(obj) {
     let tempObj = Array.isArray(obj) ? [] : {}
-    for(let key in obj) {
+    // for...in 遍历对象，数组等，遍历键值
+    for(let key in obj) {
         tempObj[key] = isObj(obj[key]) ? deepCopy(obj[key]) : obj[key]
     }
     return tempObj
