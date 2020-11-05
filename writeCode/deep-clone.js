@@ -21,14 +21,14 @@ function deepCopy(obj, hash = new WeakMap()) {
     return cloneObj
 }
 
-function deepCopy(obj) {
-    let tempObj = Array.isArray(obj) ? [] : {}
-    // for...in 遍历对象，数组等，遍历键值
-    for(let key in obj) {
-        tempObj[key] = isObj(obj[key]) ? deepCopy(obj[key]) : obj[key]
-    }
-    return tempObj
-}
+// function deepCopy(obj) {
+//     let tempObj = Array.isArray(obj) ? [] : {}
+//     // for...in 遍历对象，数组等，遍历键值
+//     for(let key in obj) {
+//         tempObj[key] = isObj(obj[key]) ? deepCopy(obj[key]) : obj[key]
+//     }
+//     return tempObj
+// }
 
 let o1 = {
 	a: 1,
