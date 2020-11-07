@@ -33,6 +33,7 @@
 
 # vue
 - [Vue生命周期](https://www.jianshu.com/p/7819808b1bd6)
+- [keep-alive](https://www.jianshu.com/p/a548446ecafe)
 
 # taro
 - [taro 3.0.7 开发流程和遇到的一些坑](https://www.jianshu.com/p/c2b5cea72a07)
