@@ -30,10 +30,14 @@
 - [JavaScript之事件委托](https://www.jianshu.com/p/1cfda28abc79)
 - [js中call()和apply()](https://www.jianshu.com/p/aa2eeecd8b4f)
 - [js中bind()](https://www.jianshu.com/p/25a855c01896)
+- [Object.defineProperty和Proxy对比](https://www.jianshu.com/p/0edfd318a3ad)
+- [ES6中Proxy和Reflect](https://www.jianshu.com/p/bd53624f1a86)
 
 # vue
 - [Vue生命周期](https://www.jianshu.com/p/7819808b1bd6)
 - [keep-alive](https://www.jianshu.com/p/a548446ecafe)
+- [Vue3.0和Vue2.0区别](https://www.jianshu.com/p/c436241992ee)
+- [Vue常见面试题](https://www.jianshu.com/p/c9de5c1cbddf)
 
 # taro
 - [taro 3.0.7 开发流程和遇到的一些坑](https://www.jianshu.com/p/c2b5cea72a07)
