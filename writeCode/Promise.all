@@ -1,0 +1,39 @@
+Promise.all = function(promises) {
+	let results = [];
+	let promiseCount = 0;
+	return new Promise((resolve, reject) => { 
+		for(let i = 0; i < promises.length; i++) {         // 使用let保证promise顺序执行
+			Promise.resolve(promises[i]).then(res => {
+				promiseCount++;
+				results[i] = res;
+				if(promiseCount === promises.length) {        // 当所有函数都正确执行了，resolve输出所有返回结果。
+					resolve(results);
+				}
+			}, err => {
+				reject(err);
+			})
+		}
+	})
+}
+
+let p1 = new Promise((resolve) => {
+	setTimeout(()=> {
+		console.log("p1 resolve");
+		resolve(111);
+	}, 1000)
+})
+let p2 = new Promise((resolve) => {
+	console.log('p2 resolve');
+	resolve(222);
+})
+let p3 = new Promise((resolve) => {
+	console.log('p3 resolve');
+	resolve(333);
+})
+
+var p = Promise.all([p1, p2, p3]);
+console.log(1212, p)
+p.then(e => {
+	console.log(e)
+});
+
