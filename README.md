@@ -14,6 +14,7 @@
 - [防抖，节流](https://github.com/dingruibobo/blog/blob/master/writeCode/fangdouAndJieliu.js)
 - [柯里化](https://github.com/dingruibobo/blog/blob/master/writeCode/currying.js)
 - [eventLoop](https://github.com/dingruibobo/blog/blob/master/writeCode/eventLoop.js)
+- [Promise.all](https://github.com/dingruibobo/blog/blob/master/writeCode/Promise.all)
 
 # js
 - [js装箱和拆箱](https://www.jianshu.com/p/f66698383e85)
