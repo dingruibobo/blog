@@ -53,6 +53,7 @@
 - [不同业务场景下的图片方案选型](https://www.jianshu.com/p/d219305150ad)
 - [优化资源加载：同步加载，异步加载，延迟加载（懒加载），预加载](https://www.jianshu.com/p/7105c1983384)
 
-# [面试那点事](https://github.com/dingruibobo/blog/blob/master/interview.md)
+# 面试那点事
+- [欢迎关注] (https://www.yuque.com/dingruibo/mhr4fg)
 
 
