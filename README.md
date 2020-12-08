@@ -54,6 +54,6 @@
 - [优化资源加载：同步加载，异步加载，延迟加载（懒加载），预加载](https://www.jianshu.com/p/7105c1983384)
 
 # 面试那点事
-- [欢迎关注] (https://www.yuque.com/dingruibo/mhr4fg)
+- [欢迎关注](https://www.yuque.com/dingruibo/mhr4fg)
 
 
